@@ -15,3 +15,5 @@
 
 error: Cannot open configuration file/directory /usr/local/etc/haproxy/haproxy.cfg : No such file or directory？
 方案： 增加 haproxy.cfg 文件
+
+
